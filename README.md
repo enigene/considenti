@@ -3,6 +3,12 @@ Calculating Consensus identity index to set of sequences.
 
 The program requires a consensus and a file with sequences. All sequences should be aligned and provided in the FASTA-format.
 
+General description you can find in this article:
+
+> Waye JS, Willard HF. Chromosome-specific alpha satellite DNA: nucleotide sequence analysis of the 2.0 kilobasepair repeat from the human X chromosome. Nucleic Acids Res. 1985 Apr 25;13(8):2731-43.
+PubMed PMID: 2987865; PubMed Central PMCID: PMC341190.
+
+
 ### Required parameters:
 
 `-v cons="consensus-align-seq.fas"` — FASTA file with consensus sequense(s)
