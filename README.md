@@ -11,15 +11,13 @@ PubMed PMID: 2987865; PubMed Central PMCID: PMC341190.
 
 ### Required parameters:
 
-`-v cons="consensus-align-seq.fas"` — FASTA file with consensus sequense(s)
-for example:
+`-v cons="consensus-align-seq.fas"` — FASTA file with consensus sequense(s), for example:
 ```fasta
 >X02418.1_consX
 AATCTGCAAGTGGATATTTGGACCNCTTTGAGGNNTTCGTTGGAAACGGNAATATCTTCACATAAAAACTAAACAGAAGCATTCTCAGAAACTTCTTTGTGATGATTGCATTCAACTCACAGAGTTGAACATTCCTTTTGATAGAGCAGTTTNGAAACACTCTTTTTGTAG
 ```
 
-and `subject-align-seq.fas` — FASTA file with subject sequense(s)
-something like this:
+and `subject-align-seq.fas` — FASTA file with subject sequense(s), something like this:
 ```fasta
 >X02418.1_X1
 GATCCGCAAG-GGATATTTGGACCTCTTTGAAGGTTTCGTTGGAAACGGGATAATCTTCACCTAAAAGCTAAACGGAAGCATTCTCAGAAACTTCTTTGGGATGTTTGCATTCACCTCACAGAGTTGAAGTTTCCCTTTGATAGCGCAGTTT-GACACAC--TTTTTCTAC
