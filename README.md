@@ -43,9 +43,9 @@ AATCTGCAAGTGGACATTTGGAGCGCTTTCAGGCCTGTGGTGGAAAAGGCTTTATCTTCACAGAAAGACGAGAGAGAAGC
 
 ### Options:
 
-`-v abovediag=1` — prints index values above diagonal in the top right corner
-`-v belowdiag=1` — prints index values below diagonal in the bottom left corner
-`-v similarity=1` — prints percent identity of the two compared sequences in opposed corner
+- `-v abovediag=1` — prints index values above diagonal in the top right corner;
+- `-v belowdiag=1` — prints index values below diagonal in the bottom left corner;
+- `-v similarity=1` — prints percent identity of the two compared sequences in opposed corner.
 
 ### Results:
 
