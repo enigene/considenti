@@ -3,7 +3,7 @@ Calculating Consensus identity index to set of sequences.
 
 The program requires a consensus and a file with sequences. All sequences should be aligned and provided in the FASTA-format.
 
-### Required params:
+### Required parameters:
 
 `-v cons="consensus-align-seq.fas"` — FASTA file with consensus sequense(s)
 for example:
@@ -12,7 +12,7 @@ for example:
 AATCTGCAAGTGGATATTTGGACCNCTTTGAGGNNTTCGTTGGAAACGGNAATATCTTCACATAAAAACTAAACAGAAGCATTCTCAGAAACTTCTTTGTGATGATTGCATTCAACTCACAGAGTTGAACATTCCTTTTGATAGAGCAGTTTNGAAACACTCTTTTTGTAG
 ```
 
-`subject-align-seq.fas` - FASTA file with subject sequense(s)
+and `subject-align-seq.fas` — FASTA file with subject sequense(s)
 something like this:
 ```fasta
 >X02418.1_X1
